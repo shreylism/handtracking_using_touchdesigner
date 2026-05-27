@@ -81,9 +81,9 @@ This project requires both hands simultaneously, each hand controlling a differe
 
 ```
 NewProject/
-├── NewProject.toe        # Main TouchDesigner project file
-├── .gitignore            # Excludes backups and auto-generated files
-└── README.md             # This file
+├── NewProject.toe       
+├── .gitignore           
+└── README.md             
 ```
 
 > **Note:** Audio and video assets are not included. Bring your own `.mp3` and `.mp4` files and re-link them inside the project. The MediaPipe plugin (`toxes/`) is also not included — download it separately from the [MediaPipe TouchDesigner releases page](https://github.com/torinmb/mediapipe-touchdesigner/releases).
