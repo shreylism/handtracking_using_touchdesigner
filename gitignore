@@ -1,0 +1,9 @@
+# TouchDesigner backup files
+*.toe.bak
+Backup/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
